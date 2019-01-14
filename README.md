@@ -1,4 +1,4 @@
-# [andresmageosa.github.io (Preview here)](https://andresmageosa.github.io)
+# [andresmasegosa.github.io (Preview here)](https://andresmasegosa.github.io)
 
 This Jekyll theme powers my personal website.
 
