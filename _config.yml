@@ -1,49 +1,51 @@
-title:            Jaan
-titlehilight:     Altosaar
-tagline:          PhD student at Princeton.
-description:      PhD student at Princeton.
-logo:             jathumb.jpg
+title:            andres
+titlehilight:     masegosa
+tagline:          Researchg Scientist
+description:      Researchg Scientist
+logo:             andresrm-circle.jpg
 #Comment out url when working locally to resolve base urls correctly
-#url: https://jaan.io
+url:  https://andresmasegosa.github.io
 
 
 
 # Owner/author information
 owner:
-  name:           Jaan Altosaar
+  name:           andres r. masegosa
 #  avatar:         avatar.png
-  bio:            "Estonian-Canadian"
-  email:          jaan@jaan.io
-  twitter:        thejaan
-  github:         altosaar
+  bio:            "Spanish-Granada"
+  email:          andresmasegosa@ual.es
+  twitter:        andresmasegosa
+  github:         andresmasegosa
 #  instagram:      ctrunsthis
 #  dribbble:       coletownsend
 #  disqus:         balzac
   # Plug in your disqus shortname!
   # For Google Authorship https://plus.google.com/authorship
-google_plus: 111852587957033089389 #other
+google_plus:  #other
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-34129661-2
-google_verify: LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU#LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU
+google_analytics: 
+google_verify: 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
+bing_verify: 
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Blog
-    url: /blog
-  - title: Projects
-    url: /projects
+#  - title: About
+#    url: /about
   - title: Papers
     url: /publications
+  - title: Projects
+    url: /projects
   - title: Talks
     url: /talks
+  - title: Blog
+    url: /blog
+  - title: Short-CV
+    url: /bio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Spain/Madrid
 future:      true
 highlighter: pygments
 markdown:    kramdown

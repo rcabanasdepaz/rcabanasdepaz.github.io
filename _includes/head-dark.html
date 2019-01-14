@@ -26,9 +26,6 @@
 <meta property="og:site_name" content="{{ site.title }} {{ site.titlehilight }}">
 {% if page.image.thumb %}<meta property="og:image" content="{{ site.url }}/images/{{ page.image.thumb }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.logo }}">{% endif %}
 
-<!-- Google authorship -->
-<a rel="author" href="https://www.google.com/+JaanAltosaar"></a>
-
 <!-- Google & Bing Verification -->
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
@@ -72,6 +69,7 @@
 <!-- Load Modernizr -->
 <script async src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
+<link rel="stylesheet" href="{{ site.url }}/assets/css/academicons.min.css"/>
 
 <!-- Icons -->
 <!-- 16x16 -->
@@ -84,7 +82,7 @@
     <header class="site-header darken">
       <div class="wrap">
         <hgroup>
-          <h1><a href="/"><span id="jaan" class="unhilighted">{{ site.title }}</span>&nbsp;<span id="altosaar" class="hilighted">{{ site.titlehilight }}</span></a></h1>
+          <h1><a href="/"><span id="andres" class="unhilighted">{{ site.title }}</span>&nbsp;<span id="masegosa" class="hilighted">{{ site.titlehilight }}</span></a></h1>
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">

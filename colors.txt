@@ -1,0 +1,5 @@
+Colors find/replace at i.css
+
+#c66b09 --> originial/brown
+#0ebcd2 --> Blue
+

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "'Yo!'"
-tags: [jaan altosaar, jaan, physics, phd, princeton, mcgill, gre, physics gre, grad school, columbia]
-description: I'm a Physics PhD student using machine learning to improve science.
+title: "andres masegosa"
+tags: [andres r. masegosa, andres, machine learning, Almeria]
+description: I am a senior research scientist with broad interests in probabilistic machine learning.
 ---

@@ -1,17 +1,31 @@
-- title: Proximity Variational Inference
-  date: 2017-03-21
-  slides: 2017_Altosaar_Proximity-Variational-Inference_slides.pdf
-  thumb: proximity-icon.png
-  description: Talks at Imperial College London [Statistical Machine Learning Group](http://wp.doc.ic.ac.uk/sml/), NIPS [Approximate Inference Workshop](http://approximateinference.org/) Spotlight, [Machine Intelligence Research Institute](https://intelligence.org/colloquium-series/), and Bloomberg [Machine Learning Group](https://www.techatbloomberg.com/post-topic/data-science/).
+- title: Bayesian Modelling of Concept Drift
+  date: 2018-07-21
+  slides: 2018_Bayesian_Modelling_of_Concept_Drift.pdf
+  thumb: ICMLlogo17.jpg
+  description: Talk at [ICML 2017](https://icml.cc/Conferences/2017/Schedule?showEvent=1050) in Sydney (Australia) and the [Machine Learning Group](https://www.ml.tu-berlin.de/menue/machine_learning/) in the Technical University of Berlin (Germany).
 
-- title: food2vec - Augmented Cooking with Machine Intelligence
-  date: 2017-03-01
-  slides: 2017_Altosaar_food2vec_slides.pdf
-  thumb: food2vec-icon.png
-  description: Invited talks at [The New York Times](https://www.nytimes.com/) and [Northeastern University](http://barabasi.com/).
+- title: Probabilistic Machine Learning with the AMIDST Toolbox
+  date: 2018-01-21
+  slides: 2018_Geilo.zip
+  thumb: Geilo.jpg
+  description: Training Course at the [Geilo Winter School 2018](https://www.sintef.no/projectweb/geilowinterschool/2018-artificial-intelligence/) (Norway). Full material at the [Github](https://github.com/andresmasegosa/GeiloWinterSchool2018) repository. 
 
-- title: Operator Variational Inference
-  date: 2016-12-13
-  slides: 2016_Altosaar_Operator-Variational-Inference-Imperial_slides.pdf
-  thumb: operator-avatar.png
-  description: Talk at Imperial College London, [Machine Learning Group](https://wp.doc.ic.ac.uk/mlg/).
+- title: AMIDST Toolbox - Scalable Probabilistic Machine Leanring
+  date: 2016-07-19
+  slides: 2017_AMiDST_Toolbox.pdf
+  thumb: apache.jpg
+  description: Talk at the [Apache Big Data Europe 2016](https://apachebigdataeu2016.sched.com/event/8TzB/amidst-toolbox-a-java-toolbox-for-scalable-probabilistic-machine-learning-andres-masegosa-ntnu) in Seville (Spain), [DeustoTech Mobility group](http://research.mobility.deustotech.eu/) of the University of Deusto (Bilbao, Spain) and [Machine Learning Group](https://www.ml.tu-berlin.de/menue/machine_learning/) in the Technical University of Berlin (Germany).
+
+- title: Stochastic Discriminative EM - Discriminative Learning of Latent Variable Models
+  date: 2014-07-01
+  slides: 2014_UAI.pdf
+  thumb: uai2014.png
+  description: Talk at [UAI 2014](http://auai.org/uai2014/) in Quebec (Canada) and the [Department of Computer Science](https://www.cs.aau.dk/) in the University of Aalborg (Denmark). 
+
+- title: Interactive Learning of Bayesian Networks
+  date: 2012-07-01
+  slides: 2012_Interactive.pdf
+  thumb: utrecht.jpeg
+  description: Talk at the [Department of Information and Computing Sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences) in the University of Utrecht (Netherlands) and the [Department of Computer Science](https://www.cs.aau.dk/) in the University of Aalborg (Denmark). 
+
+
