@@ -21,10 +21,11 @@ functionality and algorithms by interfacing to software tools such as Flink, Spa
 Weka, R and HUGIN. AMIDST is an open source toolbox written in Java and available at
 [http://www.amidsttoolbox.com](http://www.amidsttoolbox.com) under the Apache Software License 2.0.
 
-
+<!--
 Andrés R. Masegosa, Ana M. Martínez, Darío Ramos-López, Rafael Cabañas,
   Antonio Salmerón, Helge Langseth, Thomas D. Nielsen, Anders L. Madsen (2019)
   AMIDST: a Java toolbox for scalable probabilistic machine learning.
   Knowledge Based Systems 163, 595-597.
+-->
 
 [{% icon fa-github %} Github](https://github.com/amidst/toolbox) [{% icon fa-code %} Docs](http://www.amidsttoolbox.com)  [{% icon fa-file-pdf-o %} PDF](https://www.sciencedirect.com/science/article/pii/S0950705118304702) [{% icon fa-institution %} arXiv](https://arxiv.org/pdf/1704.01427)

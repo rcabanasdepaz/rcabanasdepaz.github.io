@@ -18,7 +18,8 @@ rather than a standalone machine-learning framework. In general, InferPy
 has the focus on enabling flexible data processing, easy-to-code probabilistic
 modeling, scalable inference and robust model validation.
 
+<!--
 Rafael Cabañas, Andrés R. Masegosa, Antonio Salmerón (2019) InferPy: Probabilistic Modeling with Tensorflow Made Easy. Knowledge Based Systems.
-
+-->
 
 [{% icon fa-github %} Github](https://github.com/pgm-lab/inferpy)    [{% icon fa-code %} Docs](https://inferpy.readthedocs.io)   [{% icon fa-file-pdf-o %} PDF](/papers/inferpy.pdf) 
