@@ -3,7 +3,7 @@ layout: external
 title: InferPy, Probabilistic Modeling with Tensorflow Made Easy
 role: Lead Developer
 category: projects
-external_url: 
+external_url: https://inferpy.readthedocs.io
 tags: [sade, rnb, smooth]
 image:
   thumb: logoinferpy.png

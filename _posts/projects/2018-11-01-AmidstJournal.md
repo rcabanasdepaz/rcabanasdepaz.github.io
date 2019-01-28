@@ -3,7 +3,7 @@ layout: external
 title: AMIDST, a Java toolbox for scalable probabilistic machine learning
 role: Developer
 category: projects
-external_url: 
+external_url: http://www.amidsttoolbox.com
 tags: [sade, rnb, smooth]
 image:
   thumb: amidstlogo.png
