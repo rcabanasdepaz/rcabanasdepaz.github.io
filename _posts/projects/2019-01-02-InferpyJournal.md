@@ -22,4 +22,4 @@ modeling, scalable inference and robust model validation.
 Rafael Cabañas, Andrés R. Masegosa, Antonio Salmerón (2019) InferPy: Probabilistic Modeling with Tensorflow Made Easy. Knowledge Based Systems.
 -->
 
-[{% icon fa-github %} Github](https://github.com/pgm-lab/inferpy)    [{% icon fa-code %} Docs](https://inferpy.readthedocs.io)   [{% icon fa-file-pdf-o %} PDF](/papers/inferpy.pdf) 
+<a href="https://github.com/pgm-lab/inferpy"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="https://inferpy.readthedocs.io"><i class="fa fa-code" aria-hidden="true" > Docs</i></a> <a href="/papers/inferpy.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > PDF</i></a>

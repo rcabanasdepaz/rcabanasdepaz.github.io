@@ -19,14 +19,14 @@
                      <p class="date"><time datetime="{{ talk.date | date_to_xmlschema }}" itemprop="datePublished">{{ talk.date | date: "%Y" }}</time></p>
                      <!-- <p class="summary">{% if talk.description %}{{ talk.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ talk.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p> -->
                      <p class="summary">{{ talk.description | markdownify }}</p>
-                     <p><a href="{{ site.url }}/files/talks/{{ talk.slides }}">{% icon fa-file-pdf-o %} Slides</a></p>
+                     <p><a href="{{ site.url }}/files/talks/{{ talk.slides }}"><i class="fa fa-file-pdf-o" aria-hidden="true">Slides</i></a></p>
                      </div>
                      </td></tr></table>
                   </li>
                   {% endfor %}
               </ol>
-          <!-- </article> -->
-        </section>
+          </article>
+        <!-- </section> -->
     </div>
 
 {% include footer.html %}
