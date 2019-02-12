@@ -3,7 +3,7 @@ layout: external
 title: Probabilistic graphical models on multi-core CPUs using Java 8
 role: Experiments
 category: papers
-external_url: 
+external_url:
 tags: [sade, rnb, smooth]
 image:
   thumb: pgmmulticorelogo.png
@@ -15,4 +15,4 @@ In this paper, we discuss software design issues related to the development of p
 Masegosa, A. R., Martinez, A. M., & Borchani, H. (2016). Probabilistic graphical models on multi-core CPUs using Java 8.
 IEEE Computational Intelligence Magazine, 11(2), 41-54.
 
-[{% icon fa-file-pdf-o %} PDF](https://ieeexplore.ieee.org/abstract/document/7450294/) [{% icon fa-github %} Github](https://github.com/amidst/toolbox) [{% icon fa-institution %} arXiv](https://arxiv.org/pdf/1604.07990)
+<a href="https://ieeexplore.ieee.org/abstract/document/7450294/"><i class="fa fa-file-pdf-o" aria-hidden="true"> PDF</i></a> <a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="https://arxiv.org/pdf/1604.07990"><i class="fa fa-institution" aria-hidden="true" > arXiv</i></a>

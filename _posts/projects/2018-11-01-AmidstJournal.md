@@ -28,4 +28,4 @@ Andrés R. Masegosa, Ana M. Martínez, Darío Ramos-López, Rafael Cabañas
   Knowledge Based Systems 163, 595-597.
 -->
 
-[{% icon fa-github %} Github](https://github.com/amidst/toolbox) [{% icon fa-code %} Docs](http://www.amidsttoolbox.com)  [{% icon fa-file-pdf-o %} PDF](https://www.sciencedirect.com/science/article/pii/S0950705118304702) [{% icon fa-institution %} arXiv](https://arxiv.org/pdf/1704.01427)
+<a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="http://www.amidsttoolbox.com"><i class="fa fa-code" aria-hidden="true" > Docs</i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705118304702"><i class="fa fa-file-pdf-o" aria-hidden="true" > PDF</i></a> <a href="https://arxiv.org/pdf/1704.01427"><i class="fa fa-institution" aria-hidden="true" > arXiv</i></a>
