@@ -12,7 +12,7 @@ This is forked from [Jaan Altosaar](https://github.com/altosaar/jaan.io).
 
 ## License
 
-Use this for anything you want.
+Use this for anything you want. :)
 
 ## TODO
 * papers.md:
