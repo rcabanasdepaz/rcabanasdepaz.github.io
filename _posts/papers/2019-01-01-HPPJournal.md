@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Learning Latent Variable Models from Non-Stationary Data Streams
-role: Experiments
+role: Submitted to Bayesian Analysis, 2019
 category: papers
 external_url:
 tags: [sade, rnb, smooth]
@@ -9,6 +9,8 @@ image:
   thumb: hppjournal.png
 published: true
 ---
+
+<!--
 
  Making inferences based on a data stream is challenging for several reasons.
 First of all, it requires continuous model updating and the ability to handle a posterior distribution
@@ -20,6 +22,7 @@ scheme based on hierarchical (non-conjugate) priors to explicitly model temporal
 model parameters, which induces an exponential forgetting mechanism with adaptive forgetting
 rates. A variational inference scheme is derived which maintains the computational efficiency of
 variational methods over conjugate models.
+-->
 
 Masegosa, A. R., Ramos-López D., Nielsen, T. D., Langseth, H., Salmerón, A. Learning Latent Variable Models from Non-Stationary Data Streams. Submitted to Bayesian Analysis 2019.
 

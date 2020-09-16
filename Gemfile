@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem 'autoprefixer-rails' # add only if you want it
   gem 'uglifier' # add only if you want to compress your js files
   gem 'github-pages'
+  gem 'jekyll-responsive-image'
 end

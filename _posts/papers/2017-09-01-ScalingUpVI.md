@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Scaling up Bayesian variational inference using distributed computing clusters
-role: Experiments
+role: International Journal of Approximate Reasoning, 2017
 category: papers
 external_url:
 tags: [sade, rnb, smooth]
@@ -9,6 +9,9 @@ image:
   thumb: pgm2016logo.png
 published: true
 ---
+
+
+<!--
 
 In this paper we present an approach for scaling up Bayesian learning using variational
 methods by exploiting distributed computing clusters managed by modern big data processing
@@ -24,6 +27,7 @@ up variational methods. For the scalability analysis, we evaluate our approach o
 network with more than one billion nodes and approx.  latent variables using a computer
 cluster with 128 processing units (AWS). The proposed methods are released as part of
 an open-source toolbox for scalable probabilistic machine learning [http://www.amidsttoolbox.com](http://www.amidsttoolbox.com).
+-->
 
 Andrés R Masegosa, Ana M Martinez, Helge Langseth, Thomas D Nielsen, Antonio Salmerón, Darío Ramos-López, Anders L Madsen.
 Scaling up Bayesian variational inference using distributed computing clusters. International Journal of Approximate Reasoning, 88, 435-451. 2017.

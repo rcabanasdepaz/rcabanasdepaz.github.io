@@ -39,8 +39,8 @@ links:
     url: /projects
   - title: Talks
     url: /talks
-  - title: Blog
-    url: /blog
+#  - title: Blog
+#    url: /blog
   - title: Short-CV
     url: /bio
 
@@ -55,6 +55,18 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+
+
+plugins:
+  - jekyll-responsive-image
+  
+responsive_image:
+  template: _includes/imager-js.html
+  default_quality: 90
+  sizes:
+    - width: 320
+    - width: 480
+    - width: 800
 
 # syntax_highlighter_opts:
 #   coderay:

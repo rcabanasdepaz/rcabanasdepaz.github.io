@@ -1,3 +1,15 @@
+- title: Variational Inference in Probabilistic Programming
+  date: 2019-10-5
+  slides: 2019_ProbAI.zip
+  thumb: probai2019.png
+  description: Tutorial at the [Autumn school on Machine Learning 2019 in Tbilisi](https://2019.probabilistic.ai/) (Georgia). Full material at the [Github](https://github.com/PGM-Lab/probabilisticAI_tutorials) repository. 
+ 
+- title: Probabilistic Programming with Deep Neural Networks
+  date: 2019-10-5
+  slides: 2019_ASML.pdf
+  thumb: ASML.png
+  description: Tutorial at the [Autumn school on Machine Learning 2019 in Tbilisi](https://cte.ibsu.edu.ge/autumn/) (Georgia). Full material at the [Github](https://github.com/PGM-Lab/ASML-Tbilisi) repository. 
+ 
 - title: Bayesian Modelling of Concept Drift
   date: 2018-07-21
   slides: 2018_Bayesian_Modelling_of_Concept_Drift.pdf
