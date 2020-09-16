@@ -10,6 +10,8 @@ image:
 published: true
 ---
 
+Joint work with Ana M Martinez, Helge Langseth, Thomas D Nielsen, Antonio Salmerón, Darío Ramos-López, Anders L Madsen.
+
 
 <!--
 
@@ -27,9 +29,9 @@ up variational methods. For the scalability analysis, we evaluate our approach o
 network with more than one billion nodes and approx.  latent variables using a computer
 cluster with 128 processing units (AWS). The proposed methods are released as part of
 an open-source toolbox for scalable probabilistic machine learning [http://www.amidsttoolbox.com](http://www.amidsttoolbox.com).
--->
+
 
 Andrés R Masegosa, Ana M Martinez, Helge Langseth, Thomas D Nielsen, Antonio Salmerón, Darío Ramos-López, Anders L Madsen.
 Scaling up Bayesian variational inference using distributed computing clusters. International Journal of Approximate Reasoning, 88, 435-451. 2017.
-
+-->
 <a href="https://www.sciencedirect.com/science/article/pii/S0888613X17303985"><i class="fa fa-file-pdf-o" aria-hidden="true"> PDF</i></a> <a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="/papers/PGM2016-slides.pdf"><i class="fa fa-line-chart" aria-hidden="true" > Slides</i></a>

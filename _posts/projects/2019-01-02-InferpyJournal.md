@@ -1,7 +1,7 @@
 ---
 layout: external
-title: InferPy, Deep Probabilistic Modeling with Tensorflow Made Easy
-role: Lead Developer
+title: InferPy. Deep Probabilistic Modeling with Tensorflow Made Easy
+role: Funded by Spanish Ministry of Science (Principal Investigator)
 category: projects
 external_url: https://inferpy.readthedocs.io
 tags: [sade, rnb, smooth]

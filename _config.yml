@@ -41,8 +41,8 @@ links:
     url: /talks
 #  - title: Blog
 #    url: /blog
-  - title: Short-CV
-    url: /bio
+#  - title: Short-CV
+#    url: /bio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Spain/Madrid

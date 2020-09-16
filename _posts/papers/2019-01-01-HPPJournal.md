@@ -10,6 +10,8 @@ image:
 published: true
 ---
 
+Joint work with Ramos-López D., Nielsen, T. D., Langseth, H., Salmerón, A.
+
 <!--
 
  Making inferences based on a data stream is challenging for several reasons.
@@ -22,8 +24,9 @@ scheme based on hierarchical (non-conjugate) priors to explicitly model temporal
 model parameters, which induces an exponential forgetting mechanism with adaptive forgetting
 rates. A variational inference scheme is derived which maintains the computational efficiency of
 variational methods over conjugate models.
--->
+
 
 Masegosa, A. R., Ramos-López D., Nielsen, T. D., Langseth, H., Salmerón, A. Learning Latent Variable Models from Non-Stationary Data Streams. Submitted to Bayesian Analysis 2019.
 
+-->
 <a href="/papers/hppjournal.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"> PDF</i></a> <a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a>
