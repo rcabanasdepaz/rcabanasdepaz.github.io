@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Analyzing concept drift. A case study in the financial sector
-role: Intelligent Data Anlisys 2020
+role: Intelligent Data Anlisys, 2020
 category: papers
 external_url: https://content.iospress.com/articles/intelligent-data-analysis/ida194515
 tags: [sade, rnb, smooth]

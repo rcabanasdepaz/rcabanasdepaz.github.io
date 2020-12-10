@@ -33,16 +33,20 @@ bing_verify:
 links:
 #  - title: About
 #    url: /about
-  - title: Papers
+  - title: publications
     url: /publications
-  - title: Projects
-    url: /projects
   - title: Talks
     url: /talks
+#  - title: Projects
+#    url: /projects
+  - title: Software
+    url: /software
+  - title: Industry
+    url: /industry
 #  - title: Blog
 #    url: /blog
-#  - title: Short-CV
-#    url: /bio
+  - title: Short-CV
+    url: /bio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Spain/Madrid

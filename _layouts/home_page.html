@@ -1,3 +1,5 @@
+{% if page.image.feature %}
+
 {% include head-dark.html %}
 
     <div id='bump'>
@@ -9,11 +11,11 @@
             <br>
             <br>
             <p class="intro"> I am an assistant profesor at the Department of Mathematics 
-            of the <a href="http://www.ual.es">University of Almería</a> (Spain) with broad interests in probabilistic machine learning.</p>
+            of the <a href="http://www.ual.es">University of Almería</a> (Spain). 
+            I have broad interests in probabilistic machine learning.</p>
             
             <p class="lead">
             myfullname@ual.es
-            <br>
             
             <a href="https://scholar.google.com/citations?user=J1zoY7AAAAAJ&hl=en" class="icon">
               <i class="ai ai-google-scholar-square ai-1x"></i>
@@ -53,4 +55,30 @@
           </article>
         </section>
     </div>
-{% include footerhome.html %}
+{% else %}
+
+{% include head-dark.html %}
+
+<section class="article pad-top">
+
+{% endif %}
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <!--<h1>{{ page.title }}</h1>-->
+            <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+
+          </hgroup>
+        </header>
+
+        {{ content }}
+
+      <!-- <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> -->
+
+      </article>
+    </section>
+</div>
+
+{% include footer.html %}

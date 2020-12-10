@@ -1,8 +1,8 @@
 ---
 layout: external
 title: AMIDST, a Java toolbox for scalable probabilistic machine learning
-role: Funded by the EU FP7 Program  (Post-Doc)
-category: projects
+role: Funded by the EU FP7 Program  (Post-Doc/Lead Developer)
+category: software
 external_url: http://www.amidsttoolbox.com
 tags: [sade, rnb, smooth]
 image:
@@ -27,4 +27,4 @@ Andrés R. Masegosa, Ana M. Martínez, Darío Ramos-López, Rafael Cabañas
   AMIDST: a Java toolbox for scalable probabilistic machine learning.
   Knowledge Based Systems 163, 595-597.
 
-<a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="http://www.amidsttoolbox.com"><i class="fa fa-code" aria-hidden="true" > Docs</i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705118304702"><i class="fa fa-file-pdf-o" aria-hidden="true" > PDF</i></a> <a href="https://arxiv.org/pdf/1704.01427"><i class="fa fa-institution" aria-hidden="true" > arXiv</i></a>
+<a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="http://www.amidsttoolbox.com"><i class="fa fa-code" aria-hidden="true" > Web</i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705118304702"><i class="fa fa-file-pdf-o" aria-hidden="true" > PDF</i></a> <a href="https://arxiv.org/pdf/1704.01427"><i class="fa fa-institution" aria-hidden="true" > arXiv</i></a>

@@ -1,8 +1,26 @@
+- title: Learning Under Model Misspecification. Applications to Variational and Ensemble Methods
+  date: 2020-11-5
+  slides: 2020-slidesAlanTuring.pdf
+  thumb: alanturing.png
+  description: Invited Talk at the [Alan Turing Institute](https://www.turing.ac.uk/) (London).
+
+- title: Bayesian model averaging is suboptimal for generalization under model misspecification
+  date: 2020-06-5
+  slides: 2020-UDL.pdf
+  thumb: icml2020.png
+  description: Contributed Talk at ICML2020 Workshop [Uncertainty and Robustness in Deep Learning Workshop (UDL)](https://icml.cc/virtual/2020/workshop/5717). [Video Recording](https://slideslive.com/38930581/bayesian-model-averaging-is-suboptimal-for-generalization-under-model-misspecification).
+
 - title: Variational Inference in Probabilistic Programming
   date: 2019-10-5
   slides: 2019_ProbAI.zip
   thumb: probai2019.png
   description: Tutorial at the [Probabilistic AI 2019 in Trondheim](https://2019.probabilistic.ai/) (Norway). Full material at the [Github](https://github.com/PGM-Lab/probabilisticAI_tutorials) repository. 
+
+- title: A Bayesian approach for modelling non-stationary data streams.
+  date: 2019-09-20
+  slides: 2019-BayesianCPH.pdf
+  thumb: cph.png
+  description: Talk at the [ML Section](https://di.ku.dk/english/research/machine-learning/) of the Department of Computer Science at the University of Copenhaguen.
  
 - title: Probabilistic Programming with Deep Neural Networks
   date: 2019-10-5

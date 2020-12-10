@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Learning Latent Variable Models from Non-Stationary Data Streams
-role: Submitted to Bayesian Analysis, 2019
+role: Mathematics, 2020
 category: papers
 external_url:
 tags: [sade, rnb, smooth]
@@ -29,4 +29,4 @@ variational methods over conjugate models.
 Masegosa, A. R., Ramos-López D., Nielsen, T. D., Langseth, H., Salmerón, A. Learning Latent Variable Models from Non-Stationary Data Streams. Submitted to Bayesian Analysis 2019.
 
 -->
-<a href="/papers/hppjournal.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"> PDF</i></a> <a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a>
+<a href="https://www.mdpi.com/2227-7390/8/11/1942"><i class="fa fa-file-pdf-o" aria-hidden="true"> PDF</i></a> <a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a>

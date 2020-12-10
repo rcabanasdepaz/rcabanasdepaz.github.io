@@ -1,6 +1,6 @@
 ---
 layout: publications
 permalink: /publications/index.html
-title: "Papers"
+title: "publications"
 tags: [blog, papers, publications projects, andres masegosa, machine learning]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Second Order PAC-Bayesian Bounds for the Weighted Majority Vote
-role: Submitted to NeurIPS 2020. 
+role:  NeurIPS 2020 (SpotLight).
 category: papers
 external_url: https://arxiv.org/abs/1912.08335
 tags: [sade, rnb, smooth]
