@@ -9,6 +9,11 @@ image:
 
 ## News
 ---
+- [February 2021] I have an open PhD position in collaboration with the [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto?cambioidioma=si) (Spain). Details [here](https://groups.google.com/g/ml-news/c/6owpsqm4GHI?pli=1).
+
+- [Februray 2021] I have been invited to give a talk at the [Artificial Intelligence Research Group Talks (Computer Laboratory)](http://talks.cam.ac.uk/talk/index/156022) at the University of Cambridge. [Talk]() 
+
+- [Januray 2021] Our overview paper about probabilistic models and deep neural networks has been accepted in [Entropy](https://www.mdpi.com/1099-4300/23/1/117).
 
 - [December 2020] We are looking for a **two year post-doc** to work at the intersection of probabilistic graphical models and deep learning. 
 
