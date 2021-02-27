@@ -2,7 +2,7 @@
   date: 2020-11-5
   slides: 2020-slidesCambridge.pdf
   thumb: alanturing.png
-  description: Invited Talk at the [Artificial Intelligence Research Group at University of Cambridge](https://www.cl.cam.ac.uk/research/ai/) and in the [Alan Turing Institute](https://www.turing.ac.uk/) (London).
+  description: Invited Talk at the [Artificial Intelligence Research Group at University of Cambridge](https://www.cl.cam.ac.uk/research/ai/) and at the [Alan Turing Institute](https://www.turing.ac.uk/) (London).
 
 - title: Bayesian model averaging is suboptimal for generalization under model misspecification
   date: 2020-06-5
