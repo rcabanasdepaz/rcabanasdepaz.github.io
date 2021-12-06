@@ -10,7 +10,7 @@ image:
 published: true
 ---
 
-**First Author**. Joint work with Yi-Shan Wu, Stephan S. Lorenzen, Christian Igel and Yevgeny Seldin.
+**First Author**. Joint work with Rafael Cabañas, Helge Langseth, Thomas D. Nielsen and Antonio Salmerón.
 
 <!--
 
