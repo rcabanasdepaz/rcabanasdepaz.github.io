@@ -9,6 +9,19 @@ image:
 
 ## News
 ---
+
+- [September 2021] One paper accepted for NeurIPS 2021!!: 
+
+Yi-Shan Wu, Andrés R. Masegosa, Stephan S. Lorenzen, Christian Igel, Yevgeny Seldin. Chebyshev-Cantelli PAC-Bayes-Bennett Inequality for the Weighted Majority Vote. [arXiv:2106.13624](https://arxiv.org/abs/2106.13624). 2021. 
+
+
+- [August 2021] I have started my new position as Associate Professor at [Aalborg University (Copenhagen Campus)](https://www.cph.aau.dk/)!! . 
+
+- [July 2021] I've been invited to give a talk at the Worshop [Your Model is Wrong: 
+Robustness and misspecification in probabilistic modeling](https://sites.google.com/view/robustbayes-neurips21/home). 
+
+- [June 2021] I got a new position as Associate Professor at [Aalborg University (Copenhagen Campus)](https://www.cph.aau.dk/)!! 
+
 - [February 2021] I have an open PhD position in collaboration with the [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto?cambioidioma=si) (Spain). Details [here](https://groups.google.com/g/ml-news/c/6owpsqm4GHI?pli=1).
 
 - [Februray 2021] I have been invited to give a talk at the [Artificial Intelligence Research Group Talks (Computer Laboratory)](http://talks.cam.ac.uk/talk/index/156022) at the University of Cambridge. [Talk]() 
