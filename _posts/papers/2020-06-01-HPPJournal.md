@@ -10,7 +10,7 @@ image:
 published: true
 ---
 
-Joint work with Ramos-López D., Nielsen, T. D., Langseth, H., Salmerón, A.
+**First Author**. Joint work with Ramos-López D., Nielsen, T. D., Langseth, H., Salmerón, A.
 
 <!--
 
