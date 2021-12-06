@@ -20,4 +20,7 @@ We present a novel analysis of the expected risk of weighted majority vote in mu
 Andrés R. Masegosa, Stephan S. Lorenzen, Christian Igel, Yevgeny Seldin, Second Order PAC-Bayesian Bounds for the Weighted Majority Vote. Submitted to NeurIPS 2020.
 
 -->
-<a href="https://arxiv.org/abs/2007.13532"><i class="fa fa-file-pdf-o" aria-hidden="true"> PDF</i></a> 
+<a href="https://arxiv.org/abs/2007.13532"><i class="fa fa-file-pdf-o" aria-hidden="true"> PDF</i></a>
+<a href="https://github.com/StephanLorenzen/MajorityVoteBounds"><i class="fa fa-github" aria-hidden="true" > Github</i></a> 
+<a href="/papers/2020-NeurIPS-MajorityVote-Slides.pdf"><i class="fa fa-line-chart" aria-hidden="true" > Slides</i></a>
+<a href="/papers/2020-NeurIPS-MajorityVote-Poster.pdf"><i class="fa fa-line-chart" aria-hidden="true" > Poster</i></a>
