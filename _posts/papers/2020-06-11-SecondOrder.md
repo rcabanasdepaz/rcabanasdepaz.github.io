@@ -10,7 +10,7 @@ image:
 published: true
 ---
 
-Joint work with Stephan S. Lorenzen, Christian Igel and Yevgeny Seldin.
+**First Author**. Joint work with Stephan S. Lorenzen, Christian Igel and Yevgeny Seldin.
 
 <!--
 
