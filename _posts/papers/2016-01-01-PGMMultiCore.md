@@ -10,7 +10,7 @@ image:
 published: true
 ---
 
-Joint work with Martinez, A. M., & Borchani, H.
+**First Author**. Joint work with Martinez, A. M., & Borchani, H.
 
 
 <!--
