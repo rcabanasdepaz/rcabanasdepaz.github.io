@@ -6,7 +6,7 @@ category: papers
 external_url: https://arxiv.org/abs/2106.13624
 tags: [sade, rnb, smooth]
 image:
-  thumb: NEURIPSSecondPB.png
+  thumb: 2021-ImprovedMajorityVote.png
 published: true
 ---
 
