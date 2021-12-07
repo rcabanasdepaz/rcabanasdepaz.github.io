@@ -1,12 +1,12 @@
 ---
 layout: external
 title: Diversity and Generalization in Neural Network Ensembles
-role:  arXiv 2021.
+role:  Pre-Print 2021.
 category: papers
 external_url: https://arxiv.org/abs/2110.13786
 tags: [sade, rnb, smooth]
 image:
-thumb: 2021-Diversity.png
+  thumb: 2021-Diversity.png
 published: true
 ---
 
