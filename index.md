@@ -15,16 +15,16 @@ image:
 Yi-Shan Wu, Andrés R. Masegosa, Stephan S. Lorenzen, Christian Igel, Yevgeny Seldin. Chebyshev-Cantelli PAC-Bayes-Bennett Inequality for the Weighted Majority Vote. [arXiv:2106.13624](https://arxiv.org/abs/2106.13624). 2021. 
 
 
-- [August 2021] I have started my new position as Associate Professor at [Aalborg University (Copenhagen Campus)](https://www.cph.aau.dk/)!! . 
+- [August 2021] I have started my **new position** as Associate Professor at [Aalborg University (Copenhagen Campus)](https://www.cph.aau.dk/)!! . 
 
-- [July 2021] I've been invited to give a talk at the Worshop [Your Model is Wrong: 
+- [July 2021] I've been **invited** to give a talk at the **NeurIPS 2021 Workshop** [Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling](https://sites.google.com/view/robustbayes-neurips21/home). 
 
-- [June 2021] I got a new position as Associate Professor at [Aalborg University (Copenhagen Campus)](https://www.cph.aau.dk/)!! 
+- [June 2021] I got a **new position as Associate Professor** at [Aalborg University (Copenhagen Campus)](https://www.cph.aau.dk/)!! 
 
-- [February 2021] I have an open PhD position in collaboration with the [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto?cambioidioma=si) (Spain). Details [here](https://groups.google.com/g/ml-news/c/6owpsqm4GHI?pli=1).
+- [February 2021] I have an open **PhD position** in collaboration with the [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto?cambioidioma=si) (Spain). Details [here](https://groups.google.com/g/ml-news/c/6owpsqm4GHI?pli=1).
 
-- [Februray 2021] I have been invited to give a talk at the [Artificial Intelligence Research Group Talks (Computer Laboratory)](http://talks.cam.ac.uk/talk/index/156022) at the University of Cambridge. [Talk]() 
+- [Februray 2021] I have been **invited** to give a talk at the [Artificial Intelligence Research Group Talks (Computer Laboratory)](http://talks.cam.ac.uk/talk/index/156022) at the University of Cambridge. [Talk]() 
 
 - [Januray 2021] Our overview paper about probabilistic models and deep neural networks has been accepted in [Entropy](https://www.mdpi.com/1099-4300/23/1/117).
 

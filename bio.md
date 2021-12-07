@@ -3,7 +3,7 @@ layout: page
 permalink: /bio/index.html
 title: About
 description: 
-tags: [andres r. masegosa, andres, machine learning, Almeria, ual]
+tags: [andres r. masegosa, andres, machine learning, Aalborg, Copenhagen, Denmark]
 image:
   feature: granadapartal.jpg
 ---
@@ -22,7 +22,8 @@ Artificial Intelligence – Machine Learning – Probability Theory – Uncertai
 ---
 ## positions
 
-- 2018- . **Assistant professor** in the Department of the Mathematics at the University of Almería (Spain).
+- 2018-. **Associate professor** in the Department of the Computer Science at Aalborg University (Copenhagen Campus - Denmark).
+- 2018-2021. **Assistant professor** in the Department of the Mathematics at the University of Almería (Spain).
 - 2017-2018. **Senior Researcher** in the Department of the Mathematics at the University of Almería (Spain).
 - 2014-2016. **Post-Doc Researcher** in the Department of Computer Science at NTNU (Norway). 
 - 2009-2013. **Post-Doc Researcher** in the Department of Computer Science at University of Granada (Spain). 
@@ -32,7 +33,7 @@ Artificial Intelligence – Machine Learning – Probability Theory – Uncertai
 ---
 ## scholarships, grants 
 
-- 2020-2022 – **National Research Grant**. Explainable Machine 
+- 2020-2021 – **National Research Grant**. Explainable Machine 
 Learning: A Probabilistic Approach. Competitive National Call 
 by the Spanish Ministry of Science. Co-PI. Funded with 
 62,000€. 
