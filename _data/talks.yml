@@ -1,7 +1,7 @@
-- title: Learning Under Model Misspecification. Applications to Variational and Ensemble Methods
-  date: 2020-11-5
-  slides: 2020-slidesCambridge.pdf
-  thumb: alanturing.png
+- title: Bayesian Model Averaging is not Model Combination: A PAC-Bayesian Analysis of Deep Ensembles
+  date: 2021-12-14
+  slides: 2021-NeurIPS-Workshop.pdf
+  thumb: NeurIPS-2021.png
   description: Invited Talk at **NeurIPS 2021 Workshop** [Your Model is Wrong: Robustness and misspecification in probabilistic modeling](https://sites.google.com/view/robustbayes-neurips21/home).
   
 - title: Learning Under Model Misspecification. Applications to Variational and Ensemble Methods
