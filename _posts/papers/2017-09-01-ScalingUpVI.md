@@ -10,7 +10,7 @@ image:
 published: true
 ---
 
-**First Author**. Joint work with Ana M Martinez, Helge Langseth, Thomas D Nielsen, Antonio Salmerón, Darío Ramos-López, Anders L Madsen.
+**Authors:** Andres R. Masegosa, Ana M Martinez, Helge Langseth, Thomas D Nielsen, Antonio Salmerón, Darío Ramos-López, Anders L Madsen.
 
 
 <!--

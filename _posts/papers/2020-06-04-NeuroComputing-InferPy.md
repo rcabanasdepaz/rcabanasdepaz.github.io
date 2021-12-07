@@ -10,7 +10,8 @@ image:
 published: true
 ---
 
-**Lead Author**. Joint work with Javier Cózar, Rafael Cabañas and Antonio Salmerón.
+
+**Authors:** Javier Cózar, Rafael Cabañas, Antonio Salmerón and Andres R. Masegosa.
 
 <!--
 

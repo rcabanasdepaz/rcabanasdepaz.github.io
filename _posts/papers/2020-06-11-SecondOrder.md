@@ -10,7 +10,7 @@ image:
 published: true
 ---
 
-**First Author**. Joint work with Stephan S. Lorenzen, Christian Igel and Yevgeny Seldin.
+**Authors:** Andres R. Masegosa, Stephan S. Lorenzen, Christian Igel and Yevgeny Seldin.
 
 <!--
 

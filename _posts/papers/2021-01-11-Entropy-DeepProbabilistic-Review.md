@@ -10,7 +10,7 @@ image:
 published: true
 ---
 
-**First Author**. Joint work with Rafael Cabañas, Helge Langseth, Thomas D. Nielsen and Antonio Salmerón.
+**Authors:** Andres R. Masegosa, Rafael Cabañas, Helge Langseth, Thomas D. Nielsen and Antonio Salmerón.
 
 <!--
 
