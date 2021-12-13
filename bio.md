@@ -22,7 +22,7 @@ Artificial Intelligence – Machine Learning – Probability Theory – Uncertai
 ---
 ## positions
 
-- 2018-. **Associate professor** in the Department of the Computer Science at Aalborg University (Copenhagen Campus - Denmark).
+- 2021-. **Associate professor** in the Department of the Computer Science at Aalborg University (Copenhagen Campus - Denmark).
 - 2018-2021. **Assistant professor** in the Department of the Mathematics at the University of Almería (Spain).
 - 2017-2018. **Senior Researcher** in the Department of the Mathematics at the University of Almería (Spain).
 - 2014-2016. **Post-Doc Researcher** in the Department of Computer Science at NTNU (Norway). 
