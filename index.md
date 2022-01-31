@@ -10,9 +10,17 @@ image:
 ## News
 ---
 
-- [September 2021] One paper accepted for NeurIPS 2021!!: 
+- [January 2022] One paper accepted at **AISTATS 2022**!!: 
 
-Yi-Shan Wu, Andrés R. Masegosa, Stephan S. Lorenzen, Christian Igel, Yevgeny Seldin. Chebyshev-Cantelli PAC-Bayes-Bennett Inequality for the Weighted Majority Vote. [arXiv:2106.13624](https://arxiv.org/abs/2106.13624). 2021. 
+    Luis A. Ortega, Rafael Cabañas, Andres R. Masegosa. Diversity and Generalization in Neural Network Ensembles. [arXiv:2110.13786](https://arxiv.org/abs/2110.13786).
+
+
+- [December 2021] [Video recording](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=21872#wse-detail-29638) of my **invited talk** at the **NeurIPS 2021 Workshop** Your Model is Wrong: 
+Robustness and misspecification in probabilistic modeling: 
+
+- [September 2021] One paper accepted at **NeurIPS 2021**!!: 
+    
+    Chebyshev-Cantelli PAC-Bayes-Bennett Inequality for the Weighted Majority Vote. [arXiv:2106.13624](https://arxiv.org/abs/2106.13624).
 
 
 - [August 2021] I have started my **new position** as Associate Professor at [Aalborg University (Copenhagen Campus)](https://www.cph.aau.dk/)!! . 
