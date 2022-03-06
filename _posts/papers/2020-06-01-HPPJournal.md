@@ -1,6 +1,6 @@
 ---
 layout: external
-title: Learning Latent Variable Models from Non-Stationary Data Streams
+title: Variational Inference over Nonstationary Data Streams for Exponential Family Models
 role: Mathematics, 2020
 category: papers
 external_url:
