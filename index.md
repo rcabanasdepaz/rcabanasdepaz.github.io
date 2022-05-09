@@ -11,13 +11,13 @@ image:
 ---
 - PhD positions in Probabilistic Machine Learning: 
 
-  * Check [Open Call for PhD Scholarships](https://www.google.com/url?q=https%3A%2F%2Fddsa.dk%2Fopen-calls%2Fopen-call-for-phd-scholarships%2F&sa=D&sntz=1&usg=AFQjCNFKttxA1rY9qpQzttco-XU9hkAioQ=) by the Danish Data Science Academy. **Deadline: 20 March 2022**
-
   * Email me if you are interested
 
 
 ### News
 ---
+
+- [April 2022] I've invited to give a course about Probabilistic Programming and Variational Inference at the [Nordic Probabilisitc AI Summer School](https://probabilistic.ai/), Helsinki, 13-17 June, 2022. 
 
 - [January 2022] One paper accepted at **AISTATS 2022**!!: 
 
