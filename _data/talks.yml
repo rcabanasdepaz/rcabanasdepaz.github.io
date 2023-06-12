@@ -1,3 +1,9 @@
+- title: Diversity and Generalization in Neural Network Ensembles
+  date: 2022-6-12
+  slides: 2022_aistats_deepensemble_diversity_slides.pdf
+  thumb: cph.png
+  description: Talk at the [ML Section](https://di.ku.dk/english/research/machine-learning/) of the Department of Computer Science at the University of Copenhaguen.
+
 - title: Bayesian Model Averaging is not Model Combination. A PAC-Bayesian Analysis of Deep Ensembles
   date: 2021-12-14
   slides: 2021-NeurIPS-Workshop.pdf
