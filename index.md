@@ -13,7 +13,7 @@ image:
 
   * Email me if you are interested
 
-- If interested in a (online) intership with me, just drop me an emal. 
+- If interested in an (online) intership with me, just drop me an email! 
 
 <!--- 
 ### News
