@@ -13,7 +13,9 @@ image:
 
   * Email me if you are interested
 
+- If interested in a (online) intership with me, just drop me an emal. 
 
+<!--- 
 ### News
 ---
 
@@ -61,3 +63,5 @@ and [weighted majority voting](https://papers.nips.cc/paper/2020/hash/386854131f
 Ministry of Science and Innovation. This grant is for a research project for developing explainable machine learning methods using a probabilistic approach.
 
 - [February 2020] One paper about the analysis of concept drift in the financial sector accepted at [Intelligent Data Analysis](https://content.iospress.com/articles/intelligent-data-analysis/ida194515).
+
+--->
