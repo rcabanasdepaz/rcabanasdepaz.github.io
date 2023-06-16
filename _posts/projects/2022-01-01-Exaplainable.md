@@ -2,8 +2,8 @@
 layout: external
 title: Explainable Machine Learning: A Probabilistic Approach
 role: 2020-2022 Spanish Ministry of Science  (Co-PI)
-category: industry
-external_url:
+category: projects
+external_url: https://inferpy.readthedocs.io 
 tags: [Almeria, recognition, traffic, manoeuvre, Daimler]
 image:
   thumb: 2022-01-01-Exaplainable.png
