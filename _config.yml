@@ -37,12 +37,12 @@ links:
     url: /publications
   - title: Talks
     url: /talks
-  - title: Projects
-    url: /projects
+#  - title: Projects
+#    url: /projects
   - title: Software
     url: /software
-#  - title: Industry
-#    url: /industry
+  - title: Industry
+    url: /industry
 #  - title: Blog
 #    url: /blog
   - title: Short-CV
