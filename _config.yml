@@ -37,8 +37,8 @@ links:
     url: /publications
   - title: Talks
     url: /talks
-#  - title: Projects
-#    url: /projects
+  - title: Projects
+    url: /projects
   - title: Software
     url: /software
   - title: Industry
