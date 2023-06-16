@@ -1,5 +1,5 @@
 ---
-layout: industry
+layout: projects
 permalink: /projects/index.html
 title: "Projects"
 tags: [andres r. masegosa, andres, machine learning, Almeria, ual]
