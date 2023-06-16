@@ -9,7 +9,7 @@ image:
 
 ### Positions
 ---
-- PhD positions in Probabilistic Machine Learning: 
+- PhD/PostDoc positions in Probabilistic Machine Learning: 
 
   * Email me if you are interested
 
