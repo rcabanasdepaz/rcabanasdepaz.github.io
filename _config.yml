@@ -41,8 +41,8 @@ links:
     url: /projects
   - title: Software
     url: /software
-#  - title: Industry
-#    url: /industry
+  - title: Industry
+    url: /industry
 #  - title: Blog
 #    url: /blog
   - title: Short-CV
