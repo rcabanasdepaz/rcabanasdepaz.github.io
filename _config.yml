@@ -13,7 +13,7 @@ owner:
   name:           andres r. masegosa
 #  avatar:         avatar.png
   bio:            "Spanish-Granada"
-  email:          andresmasegosa@ual.es
+  email:          arma@cs.aau.dk
   twitter:        andresmasegosa
   github:         andresmasegosa
 #  instagram:      ctrunsthis
@@ -41,7 +41,7 @@ links:
 #    url: /projects
   - title: Software
     url: /software
-  - title: Industry
+  - title: Projects
     url: /industry
 #  - title: Blog
 #    url: /blog
