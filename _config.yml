@@ -1,5 +1,5 @@
-title:            andres
-titlehilight:     masegosa
+title:            rafael
+titlehilight:     cabañas
 tagline:          Researchg Scientist
 description:      Researchg Scientist
 logo:             andresrm-circle.jpg
@@ -35,18 +35,18 @@ links:
 #    url: /about
   - title: publications
     url: /publications
-  - title: Talks
-    url: /talks
-  - title: Projects
-    url: /projects
-  - title: Software
-    url: /software
-  - title: Industry
-    url: /industry
+#  - title: Talks
+#    url: /talks
+#  - title: Projects
+#    url: /projects
+#  - title: Software
+#    url: /software
+#  - title: Industry
+#    url: /industry
 #  - title: Blog
 #    url: /blog
-  - title: Short-CV
-    url: /bio
+#  - title: Short-CV
+#    url: /bio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Spain/Madrid
