@@ -75,14 +75,14 @@ COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE  [Q1]
 <a href='https://doi.org/10.1016/j.neucom.2020.07.117  '><i class='ai ai-doi' aria-hidden='true' > Publisher</i></a> 
 <br></li>
 <li>
-Masegosa, A. R., Cabañas, R., Lanseth, H., Nielsen, T. D., and Salmerón, A. ""Probabilistic Models with Deep Neural Networks."" Entropy, 23 (2021), 117<br>
+Masegosa, A. R., Cabañas, R., Lanseth, H., Nielsen, T. D., and Salmerón, A. Probabilistic Models with Deep Neural Networks. Entropy, 23 (2021), 117<br>
 PHYSICS, MULTIDISCIPLINARY - SCIE  [Q2]
 <br>
 <a href=' '><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
 <a href='https://doi.org/10.3390/e23010117  '><i class='ai ai-doi' aria-hidden='true' > Publisher</i></a> 
 <br></li>
 <li>
-Gómez-Olmedo, M., Cabañas, R., Cano, A., Moral, S., and Retamero, O. P. ""Value-Based Potentials: Exploiting Quantitative Information Regularity Patterns in Probabilistic Graphical Models."" International Journal of Intelligent Systems. 2021<br>
+Gómez-Olmedo, M., Cabañas, R., Cano, A., Moral, S., and Retamero, O. P. Value-Based Potentials: Exploiting Quantitative Information Regularity Patterns in Probabilistic Graphical Models. International Journal of Intelligent Systems. 2021<br>
 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE  [Q1]
 <br>
 <a href=' '><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
