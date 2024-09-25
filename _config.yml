@@ -2,20 +2,20 @@ title:            rafael
 titlehilight:     cabañas
 tagline:          Researchg Scientist
 description:      Researchg Scientist
-logo:             andresrm-circle.jpg
+logo:             rcabanas-circle.jpg
 #Comment out url when working locally to resolve base urls correctly
-url:  https://andresmasegosa.github.io
+url:  https://rcabanasdepaz.github.io
 
 
 
 # Owner/author information
 owner:
-  name:           andres r. masegosa
+  name:           rafael.cabanas
 #  avatar:         avatar.png
-  bio:            "Spanish-Granada"
-  email:          arma@cs.aau.dk
-  twitter:        andresmasegosa
-  github:         andresmasegosa
+  bio:            "Spanish-Almería"
+  email:          rcabanas@ual.es
+#  twitter:        andresmasegosa
+  github:         rcabanasdepaz
 #  instagram:      ctrunsthis
 #  dribbble:       coletownsend
 #  disqus:         balzac
@@ -33,8 +33,8 @@ bing_verify:
 links:
 #  - title: About
 #    url: /about
-  - title: publications
-    url: /publications
+#  - title: publications
+ #   url: /publications
 #  - title: Talks
 #    url: /talks
 #  - title: Projects
