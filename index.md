@@ -71,7 +71,7 @@ COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE  [Q1]
 Cózar, J., Cabañas, R., Salmerón, A., and Masegosa, A. R. InferPy: Probabilistic modeling with deep neural networks made easy. Neurocomputing, 415 (2020), 408-410. <br>
 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE  [Q1]
 <br>
-<a href=' '><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
+<a href='papers/2020-Cozar-inferpy-NEU.pdf'><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
 <a href='https://doi.org/10.1016/j.neucom.2020.07.117  '><i class='ai ai-doi' aria-hidden='true' > Publisher</i></a> 
 <br></li>
 <li>
@@ -85,21 +85,21 @@ PHYSICS, MULTIDISCIPLINARY - SCIE  [Q2]
 Gómez-Olmedo, M., Cabañas, R., Cano, A., Moral, S., and Retamero, O. P. Value-Based Potentials: Exploiting Quantitative Information Regularity Patterns in Probabilistic Graphical Models. International Journal of Intelligent Systems. 2021<br>
 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE  [Q1]
 <br>
-<a href=' '><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
+<a href='papers/2021-Gomez-value-IJIS.pdf '><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
 <a href='https://doi.org/10.1002/int.22573'><i class='ai ai-doi' aria-hidden='true' > Publisher</i></a> 
 <br></li>
 <li>
 Zaffalon, M., Antonucci, A., Cabañas, R., & Huber, D. (2023). Approximating counterfactual bounds while fusing observational, biased and randomised data sources. International Journal of Approximate Reasoning, 162, 109023.  <br>
 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE  [Q2]
 <br>
-<a href=' '><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
+<a href='papers/2023-Zaffalon-aproximating-IJAR.pdf'><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
 <a href='https://doi.org/10.1016/j.ijar.2023.109023'><i class='ai ai-doi' aria-hidden='true' > Publisher</i></a> 
 <br></li>
 <li>
 Zaffalon, M., Antonucci, A., Cabañas, R., Huber, D., & Azzimonti, D. (2024). Efficient computation of counterfactual bounds. International Journal of Approximate Reasoning, 109111<br>
 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE  [Q2]
 <br>
-<a href=' '><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
+<a href='papers/2024-Zaffalon-efficient-IJAR.pdf'><i class='fa fa-file-pdf-o' aria-hidden='true' > Preprint</i></a>
 <a href='https://doi.org/10.1016/j.ijar.2023.109111    '><i class='ai ai-doi' aria-hidden='true' > Publisher</i></a> 
 <br></li>
 <li>
